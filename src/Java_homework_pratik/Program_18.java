@@ -30,7 +30,7 @@ public class Program_18 {
         obj.mutiply();
         obj.divsion();
         obj.reminder();
-
+        scanner.close();
     }
 
     public void addition() {
